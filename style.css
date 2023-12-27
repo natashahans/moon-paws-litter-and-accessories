@@ -116,55 +116,55 @@ a:hover {
 }
 
 .section-products #product-1 .part-1::before {
-    background: url("litter\ and\ accessories/cat leash.png") no-repeat center;
+    background: url("cat leash.png") no-repeat center;
     background-size: cover;
 		transition: all 0.3s;
 }
 
 .section-products #product-2 .part-1::before {
-    background: url("litter\ and\ accessories/dog leash.png") no-repeat center;
+    background: url("dog leash.png") no-repeat center;
     background-size: cover;
 }
 
 .section-products #product-3 .part-1::before {
-    background: url("litter\ and\ accessories/dog-bed.png") no-repeat center;
+    background: url("dog-bed.png") no-repeat center;
     background-size: cover;
 }
 
 .section-products #product-4 .part-1::before {
-    background: url("litter\ and\ accessories/cat-bed.png") no-repeat center;
+    background: url("cat-bed.png") no-repeat center;
     background-size: cover;
 }
 .section-products #product-5 .part-1::before {
-    background: url("litter\ and\ accessories/dog sweater.png") no-repeat center;
+    background: url("dog sweater.png") no-repeat center;
     background-size: cover;
 }
 .section-products #product-6 .part-1::before {
-    background: url("litter\ and\ accessories/catit.png") no-repeat center;
+    background: url("catit.png") no-repeat center;
     background-size: cover;
 }
 .section-products #product-7 .part-1::before {
-    background: url("litter\ and\ accessories/cat bowl.png") no-repeat center;
+    background: url("cat bowl.png") no-repeat center;
     background-size: cover;
 }
 .section-products #product-8 .part-1::before {
-    background: url("litter\ and\ accessories/dog shampoo.png") no-repeat center;
+    background: url("dog shampoo.png") no-repeat center;
     background-size: cover;
 }
 .section-products #product-9 .part-1::before {
-    background: url("litter\ and\ accessories/multi cat.png") no-repeat center;
+    background: url("multi cat.png") no-repeat center;
     background-size: cover;
 }
 .section-products #product-10 .part-1::before {
-    background: url("litter\ and\ accessories/fresh step.png") no-repeat center;
+    background: url("fresh step.png") no-repeat center;
     background-size: cover;
 }
 .section-products #product-11 .part-1::before {
-    background: url("litter\ and\ accessories/tidy cats.png") no-repeat center;
+    background: url("tidy cats.png") no-repeat center;
     background-size: cover;
 }
 .section-products #product-12 .part-1::before {
-    background: url("litter\ and\ accessories/tidy litter.png") no-repeat center;
+    background: url("tidy litter.png") no-repeat center;
     background-size: cover;
 }
 .section-products .single-product .part-1 .discount,
